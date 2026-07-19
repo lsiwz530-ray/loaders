@@ -1,4 +1,4 @@
-DATABASE_URL=postgresql://postgres:yxrOhblorCFfANLPnehzsSuSdNjhngUc@postgres.railway.internal:5432/railway
+
 VOLUME_PATH=/data
 PORT=8080
 SESSION_SECRET=change_me_to_a_long_random_string
