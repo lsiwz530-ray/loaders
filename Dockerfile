@@ -1,0 +1,6 @@
+DATABASE_URL=postgresql://user:pass@host:5432/draw
+VOLUME_PATH=/data
+PORT=8080
+SESSION_SECRET=change_me_to_a_long_random_string
+ADMIN_USERNAME=North
+ADMIN_PASSWORD=North123
